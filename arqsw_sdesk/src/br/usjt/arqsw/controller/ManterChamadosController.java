@@ -17,7 +17,7 @@ import br.usjt.arqsw.service.ChamadoService;
 import br.usjt.arqsw.service.FilaService;
 /**
  * 
- * @author Mauro de Melo Pires - 816125689 - SIN3AN-MCA
+ * @author Mauro de Melo Pires - 816125689 - SI3AN-MCA
  * 
  *
  */
